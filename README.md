@@ -70,7 +70,7 @@ Potential extensions of this work include:
 The full interactive analysis is also available on Kaggle:
 
 👉 **Kaggle Notebook:**  
-[https://www.kaggle.com/USERNAME/NOTEBOOK-NAME](https://www.kaggle.com/code/ibrahimongoren/financial-sentiment-analysis)
+[Financial Sentiment Analysis](https://www.kaggle.com/code/ibrahimongoren/financial-sentiment-analysis)
 
 ---
 
